@@ -1,7 +1,6 @@
 ### Olá Meu nome é Alexandre Lima.
 
 
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandrelimax&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrelimax&hide_progress=true)
 
