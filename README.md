@@ -2,9 +2,9 @@
 
 💻 Sou um entusiasta de tecnologia e apaixonado por desenvolvimento de software, dados e arquitetura de sistemas.
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandrelimax&show_icons=true&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandrelimax&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrelimax&layout=compact&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrelimax&layout=compact&theme=tokyonight" />
 </p>
 ## 🛠️ Tecnologias e Ferramentas
 
