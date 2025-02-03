@@ -6,6 +6,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrelimax&layout=compact&theme=tokyonight" />
 </p>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -19,10 +20,3 @@
 </div>
 
 
-## 📫 Contato
-
-📧 **E-mail:** alexandrelimaxxxx@gmail.com  
-🔗 **LinkedIn:** [Alexandre Lima](https://www.linkedin.com/in/alexandre-de-almeida-lima-a4b508203/)  
-
-
-💡 *Sempre aprendendo e explorando novas tecnologias!*
